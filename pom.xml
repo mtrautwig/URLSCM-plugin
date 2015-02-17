@@ -41,12 +41,12 @@
 
   <name>URL SCM plugin</name>
   <description>Allows specification of URLs to poll and copy into the workspace</description>
-  <url>http://wiki.jenkins-ci.org/display/JENKINS/URL+SCM</url>
+  <url>https://github.com/mtrautwig/URLSCM-plugin</url>
 
   <licenses>
     <license>
       <name>The MIT license</name>
-      <url>https://github.com/jenkinsci/URLSCM-plugin/raw/master/LICENSE.txt</url>
+      <url>https://github.com/mtrautwig/URLSCM-plugin/raw/master/LICENSE.txt</url>
       <distribution>repo</distribution>
     </license>
   </licenses>
@@ -64,9 +64,9 @@
   </developers>
 
   <scm>
-    <connection>scm:git:git://github.com/jenkinsci/URLSCM-plugin.git</connection>
-    <developerConnection>scm:git:git@github.com:jenkinsci/URLSCM-plugin.git</developerConnection>
-    <url>https://github.com/jenkinsci/URLSCM-plugin</url>
+    <connection>scm:git:git://github.com/mtrautwig/URLSCM-plugin.git</connection>
+    <developerConnection>scm:git:git@github.com:mtrautwig/URLSCM-plugin.git</developerConnection>
+    <url>https://github.com/mtrautwig/URLSCM-plugin</url>
   </scm>
 
   <repositories>
@@ -90,7 +90,7 @@
     </repository>
     <site>
       <id>github-project-site</id>
-      <url>gitsite:git@github.com/jenkinsci/URLSCM-plugin</url>
+      <url>gitsite:git@github.com/mtrautwig/URLSCM-plugin</url>
     </site>
   </distributionManagement>
 
